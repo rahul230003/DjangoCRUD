@@ -1,0 +1,5 @@
+app1/__pycache__
+pro1/__pycache__
+__init__.py
+db.sqlite3
+app1/migrations
